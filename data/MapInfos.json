@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Overworld","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Alberga","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Lahti","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"Mantsala","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"PineconeHill","order":6,"parentId":0,"scrollX":728,"scrollY":402.6666666666667},
+{"id":6,"expanded":false,"name":"Stuga","order":7,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"Ranta","order":8,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"Kauppa","order":4,"parentId":3,"scrollX":728,"scrollY":402.6666666666667}
+]

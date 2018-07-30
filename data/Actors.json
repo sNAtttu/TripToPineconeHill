@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Sane","characterIndex":0,"characterName":"SaneRipaSamiTimo","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"SaneRipaSamiTimo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sane","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Ripa","characterIndex":1,"characterName":"SaneRipaSamiTimo","classId":2,"equips":[2,1,0,0,0],"faceIndex":1,"faceName":"SaneRipaSamiTimo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Risto","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Sami","characterIndex":2,"characterName":"SaneRipaSamiTimo","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SaneRipaSamiTimo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sami","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Timo","characterIndex":3,"characterName":"SaneRipaSamiTimo","classId":4,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SaneRipaSamiTimo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Timo","nickname":"","note":"","profile":""}
+]
